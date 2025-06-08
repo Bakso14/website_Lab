@@ -28,7 +28,7 @@
                     <img src="/assets/landing-page-picture-2.png" class="w-full m-5 rounded-lg shadow-2xl"
                         data-aos="fade-left" data-aos-duration="1000"/>
                     <div class=" p-5" data-aos="fade-right" data-aos-duration="1000">
-                        <h1 class="text-5xl font-bold">What We Do</h1>
+                        <h1 class="text-5xl font-bold">Coba</h1>
                         <ul class="py-6 list-disc text-xl">
                             <li class="mb-2"><strong>Programming Microprocessors:</strong> Writing and debugging code for
                                 microprocessors.</li>
