@@ -25,7 +25,7 @@
             <!-- HERO WHAT WE DO -->
             <div class="flex justify-center place-items-center min-h-screen  bg-base-200" id="what-we-do">
                 <div class="flex w-[80vw] flex-col lg:flex-row-reverse place-items-center">
-                    <img src="https://drive.google.com/file/d/10uVcz08C8OHYixmZkn8Yegon80EJ44U6/preview" class="w-full m-5 rounded-lg shadow-2xl"
+                    <img src="/assets/welcome_party_2023.png" class="w-full m-5 rounded-lg shadow-2xl"
                         data-aos="fade-left" data-aos-duration="1000"/>
                     <div class=" p-5" data-aos="fade-right" data-aos-duration="1000">
                         <h1 class="text-5xl font-bold">What We Do</h1>
