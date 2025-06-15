@@ -54,12 +54,9 @@
                     <div class="w-full text-left text-white" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
                         <h1 class="text-5xl font-bold my-5">Who We Are</h1>
                         <div class="flex justify-start mt-4">
-                            <button id="btn-carousel-1" class="text-blue-400 font-bold"
-                                onclick="showSlide(0)">Engineers</button>
-                            <button id="btn-carousel-2" class="text-gray-400 ml-6" onclick="showSlide(1)">Lab
-                                Assistant</button>
-                            <button id="btn-carousel-3" class="text-gray-400 ml-6"
-                                onclick="showSlide(2)">Scientists</button>
+                            <button id="btn-carousel-1" class="text-blue-400 font-bold" onclick="showSlide(0)">Engineers</button>
+                            <button id="btn-carousel-2" class="text-gray-400 ml-6" onclick="showSlide(1)">Lab Assistant</button>
+                            <button id="btn-carousel-3" class="text-gray-400 ml-6" onclick="showSlide(2)">Scientists</button>
                         </div>
                     </div>
 
